@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    //new for learning git
    char str[]={'A','E','I','O','U','a','e','i','o','u'};char Ustr[0];
    printf("Enter Character: ");
    scanf("%c",Ustr);
